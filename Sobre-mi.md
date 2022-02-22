@@ -5,7 +5,6 @@
 - Discord.js Developer
 - Website Designer
 ---
-##Skills 👑
 Lenguaje| %
 ------- | ----------------|
 Javascript|60
