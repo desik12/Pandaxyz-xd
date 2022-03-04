@@ -13,9 +13,11 @@
 
 - 🤝 Colaboraciones: `Activas`
 
-- ✅ Mis proyectos
+- 🚀 Si necesitas Ayuda contactame!
 ---
-[RickRoll Docs](https://rickroll-docs.netlify.app/) • [Proxy Checker & Grabber](https://github.com/Pandaxyz-xd/proxies-checker-grabber) • [PyAscii](https://github.com/Pandaxyz-xd/ASCII-Generator)
+
+[Panda.xyz](https://pandaxyz.netlify.app/) · [Discord.py](https://github.com/Pandaxyz-xd/Discord-PyCommand/blob/main/Discord-PyCommand.py) · [Register Python](https://github.com/Pandaxyz-xd/register-by-inputs) · [Hello World.py](https://github.com/Pandaxyz-xd/HelloWorld-py) · [Ascii Generator in Python](https://github.com/Pandaxyz-xd/ASCII-Generator) · [IP Generator](https://ip-generator.glitch.me/) · [Proxy Scapper](https://github.com/Pandaxyz-xd/Proxy-Generator) · [YouTube](https://www.youtube.com/channel/UCjUTSEfVbWGrVcHZTas-low)
+
 ---
 
 <h3 align="center"> Lenguajes de Programación </h3>
@@ -44,6 +46,6 @@ Windows 7|✅
 Windows XP|🤝
 ---
 
-[❓❓❓](https://es.wikipedia.org/wiki/Rickroll)
+![Logo](https://i.imgur.com/cbET0ub.png)
 ---
 
