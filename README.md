@@ -1,39 +1,21 @@
-<h1 align="center">Hola! Soy Panda.xyz 👋</h1>
-<h3 align="center">C# Developer, Website Designer, VFX & GFX, Cibersecurity & Discord.js Bot Creator's</h3>
+<h1 align="center"> 🪐 Hola! Soy Panda.xyz </h1>
 
-
-
-- 🎉 Hago páginas web | **css, scss, html, javascript, react** |
-
-- 🔧 Discord Developer | **js, py, npm's** |
-
-- 👨‍💻 CiberSecurity | **Parrot / Debian, Linux / Kali, Windows / 11+10** |
-
-- 💬 Contactame por Discord: [https://discord.com/invite/HgsWVwHV33](https://dsc.gg/pandaxyz)
-
-- 🤝 Colaboraciones: `Activas`
-
-- 🚀 Si necesitas Ayuda contactame!
+[Website](https://pandaxyzzz.glitch.me/) · [My Merch](https://pandaxyz-merch.glitch.me/)
+ 
+- 🛫 Website Designer
+- ⚡ PHP  & SQL Manager
+- 🍷 Java & C# Developer
+- 🐍 Cibersecurity Member
+- 🌵 React & Boostrap Lover
+- 🤩 Colaboraciones: Activas
 ---
 
-
-<h3 align="center">↘️↘️↘️</h3>
-
-
-<h3 align="center"> Sistemas Operativos </h3>
-
-
-
-Sistema Operativo| ✅/❌
-------- | ----------------|
-Parrot Security|✅
-Kali Linux|✅
-Windows 10|✅
-Windows 11|✅
-Windows 7|✅
-Windows XP|🤝
----
-
-![Logo](https://i.imgur.com/cbET0ub.png)
----
-
+<h3><img src="https://emoji.gg/assets/emoji/1343-arrowright.png" height="15px"> Redes Sociales </h3>
+<div> </div>
+<p><img src="https://emoji.gg/assets/emoji/7953-discord-lex.png" height="15px"> Discord: Panda.xyz#7129 | https://dsc.gg/pandaxyz </p>
+<div> </div>
+<p><img src="https://emoji.gg/assets/emoji/7158-youtube-lex.png" height="15px"> YouTube: Panda-xyz | https://www.youtube.com/channel/UCjUTSEfVbWGrVcHZTas
+  
+  ---
+  
+  ![img](https://i.imgur.com/b6SlDfg.png)
