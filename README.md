@@ -20,17 +20,8 @@
 
 ---
 
-<h3 align="center"> Lenguajes de Programación </h3>
+<h3 align="center">↘️↘️↘️</h3>
 
-Lenguajes| %
-------- | ----------------|
-Javascript|50
-HTML|100
-Java|42
-CSS|70
-Node.js|68
-Python|60
----
 
 <h3 align="center"> Sistemas Operativos </h3>
 
