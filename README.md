@@ -18,4 +18,4 @@
   
   ---
   
-  ![img](https://i.imgur.com/b6SlDfg.png)
+  ![img](https://i.imgur.com/goyNeDl.jpg)
