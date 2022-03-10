@@ -1,6 +1,6 @@
 <h1 align="center"> 🪐 Hola! Soy Panda.xyz </h1>
 
-[Website](https://im-pandaa.netlify.app/) · [My Merch](https://pandaxyz-merch.glitch.me/)
+[Website](https://im-pandaa.netlify.app/) · [Merch](https://pandaxyz-merch.glitch.me/)
  
 - 🛫 Website Designer
 - ⚡ PHP  & SQL Manager
