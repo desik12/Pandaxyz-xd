@@ -1,4 +1,4 @@
-<h1 align="center"> 🪐 Hola! Soy Panda.xyz </h1>
+<h1 align="center"> ⚡Ｐａｎｄａ.ｘｙｚ </h1>
 
 [Website](https://im-pandaa.netlify.app/) · [Merch](https://pandaxyz-merch.glitch.me/)
  
