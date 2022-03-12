@@ -1,6 +1,6 @@
 <h1 align="center"> ⚡Ｐａｎｄａ.ｘｙｚ </h1>
 
-[Website](https://im-pandaa.netlify.app/) · [Merch](https://pandaxyz-merch.glitch.me/)
+[Website](https://im-pandaa.netlify.app/) · [Merch](https://pandaxyz-merch.glitch.me/) · 
  
 - 🛫 Website Designer
 - ⚡ PHP  & SQL Manager
@@ -19,3 +19,11 @@
   ---
   
   ![img](https://i.imgur.com/goyNeDl.jpg)
+
+ <div> </div>
+ 
+ ---
+ 
+  <div> </div>
+ 
+ ![img2](https://cdn.discordapp.com/attachments/944346339913920593/952125559612272690/screenshot.png?size=4096)
